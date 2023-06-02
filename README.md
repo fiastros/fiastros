@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fiastros
 - 👀 I’m interested in Data Science & Agriculture
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate any coders xD
 - 📫 Let's connect on Linkedin: loic eyango tabi 
 
 <!---
