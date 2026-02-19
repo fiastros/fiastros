@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fiastros
 - 👀 I’m interested engineer in agriculure with a Msc in data science
 - 🌱 Currently a PhD candidate. Integrating Deep learning models with Stochastic differential Equation. Application in Epidemiology.
-- 📫 Let's connect on Linkedin: loic eyango tabi 
+- 📫 Let's connect on Linkedin: <a href="https://www.linkedin.com/in/loic-eyango/"> loic eyango tabi </a>
 
 <!---
 fiastros/fiastros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
