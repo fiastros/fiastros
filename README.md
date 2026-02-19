@@ -17,6 +17,12 @@
 
 ## 🛠️ Tech Stack
 
+### 💻 Operating Systems
+![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
+![Linux Servers](https://img.shields.io/badge/-Linux%20Servers-333333?style=for-the-badge&logo=linux)
+![macOS](https://img.shields.io/badge/-macOS-333333?style=for-the-badge&logo=apple)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=for-the-badge&logo=windows)
+
 ### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=for-the-badge&logo=r)
@@ -35,8 +41,13 @@
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-333333?style=for-the-badge&logo=amazon-s3)
+
+### ⚙️ MLOps
+![MLflow](https://img.shields.io/badge/-MLflow-333333?style=for-the-badge&logo=mlflow)
 
 ---
 
@@ -61,7 +72,7 @@ Personnal projects:
 
 - 🔹 **document_ai_models** – Python web-application for NER (Named Entity Recognition). I trained and two-staged classifier (Detection and Classification).
 
-- 🔹 **Cartography ** – Python web application for remote sensing. Using flask to api dev, vanilla javascript/css/html5 for front-end dev, and using SQLite and storage and tabular data.
+- 🔹 **Cartography** – Python web application for remote sensing. Using flask to api dev, vanilla javascript/css/html5 for front-end dev, and using SQLite and storage and tabular data.
 
 ---
 
