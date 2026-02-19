@@ -9,7 +9,7 @@
 - 🌱 I’m exploring **LLMs, MLOps & scalable ML architectures**
 - 👯 I’m open to collaborating on **AI & Data projects**
 - 💬 Ask me about **Python, Linux Servers, Deep Learning, ML System Design**
-- 📫 Reach me at: **loicyng@gmail.com**
+- 📫 Reach me at here: **loicyng@gmail.com**
 
 <!--  - 🌍 Portfolio / Website: **[https://www.linkedin.com/in/loic-eyango/](https://www.linkedin.com/in/loic-eyango/)**   -->
 
