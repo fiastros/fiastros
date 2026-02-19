@@ -34,6 +34,16 @@
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-333333?style=for-the-badge&logo=scikit-learn)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=for-the-badge&logo=xgboost)
 
+![Transformers](https://img.shields.io/badge/-Transformers-333333?style=for-the-badge&logo=huggingface)
+![LLMs](https://img.shields.io/badge/-Large%20Language%20Models-333333?style=for-the-badge)
+![LlamaCpp](https://img.shields.io/badge/-LlamaCpp-333333?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/-LangGraph-333333?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-333333?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-333333?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/-Time%20Series-333333?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/-Anomaly%20Detection-333333?style=for-the-badge)
+
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
@@ -46,8 +56,14 @@
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-333333?style=for-the-badge&logo=amazon-s3)
 
-### ⚙️ MLOps
+### ⚙️ MLOps and Backend dev
 ![MLflow](https://img.shields.io/badge/-MLflow-333333?style=for-the-badge&logo=mlflow)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/-REST%20API-333333?style=for-the-badge)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/-Pydantic-333333?style=for-the-badge)
+![Uvicorn](https://img.shields.io/badge/-Uvicorn-333333?style=for-the-badge)
 
 ---
 
