@@ -43,20 +43,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiastros&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiastros&theme=tokyonight" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Personnal (Open Source) Projects
 
-- 🔹 **Project Name** – Short description of what it does.
-- 🔹 **Another Project** – ML pipeline / Web App / Research project.
-- 🔹 **Cool AI Tool** – Explain impact briefly.
+Projects in my repository are split into two categories: my personnal project and projects I work with/for my students as an assistant professor in biostatistics and artificial intelligence.
+
+Project I made for my student:
+- 🔹 **HappyFish** – Android Application using flutter for data collection (tabular + photos)
+- 🔹 **ensahvtoolssurvey** – Web application survey PWA-compatible
+
+Personnal projects: 
+- 🔹 **finder** – Python web application for matching job applications with candidate cvs. Used Word-2-Vec for word-embedding and cosine-similarity to estimate best fit. Also use game-theory to optimize recruiter-candidate satisfaction.
+
+- 🔹 **document_ai_models** – Python web-application for NER (Named Entity Recognition). I trained and two-staged classifier (Detection and Classification).
+
+- 🔹 **Cartography ** – Python web application for remote sensing. Using flask to api dev, vanilla javascript/css/html5 for front-end dev, and using SQLite and storage and tabular data.
 
 ---
 
@@ -64,6 +69,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/loic-eyango/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-0077B5?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/loicdfsdf)
+[![Zindi](https://img.shields.io/badge/-Zindi-2EC866?style=for-the-badge&logo=zindi&logoColor=white)](https://zindi.africa/users/fiastros)
 <!-- [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)](https://github.com/your-username) -->
 <!--  Add Zindi logo  -->
 
