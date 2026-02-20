@@ -97,9 +97,6 @@ Personnal projects:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/loic-eyango/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-0077B5?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/loicdfsdf)
 [![Zindi](https://img.shields.io/badge/-Zindi-2EC866?style=for-the-badge&logo=zindi&logoColor=white)](https://zindi.africa/users/fiastros)
-<!-- [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)](https://github.com/your-username) -->
-<!--  Add Zindi logo  -->
-
 
 ---
 
