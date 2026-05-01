@@ -99,5 +99,7 @@ Personnal projects:
 [![Zindi](https://img.shields.io/badge/-Zindi-2EC866?style=for-the-badge&logo=zindi&logoColor=white)](https://zindi.africa/users/fiastros)
 
 ---
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=fiastros)
+
 
 ⭐ From [Fiastros](https://github.com/fiastros)
